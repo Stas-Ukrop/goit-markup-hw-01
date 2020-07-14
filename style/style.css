@@ -1,0 +1,20 @@
+li{
+    list-style: none;
+    display: inline;
+    
+}
+.skills img{
+    width: 270px;
+}
+.pic img{
+    width: 370px;
+}
+.myComand img{
+    width: 270px;
+}
+.logo img{
+    width: 44px;
+}
+.clients img{
+    width: 170px;
+}
