@@ -4,7 +4,7 @@ li{
     
 }
 .skills img{
-    width: 270px;
+    width: 70px;
 }
 .pic img{
     width: 370px;
@@ -16,5 +16,8 @@ li{
     width: 44px;
 }
 .clients img{
-    width: 170px;
+    width: 70px;
+}
+.main_div{
+    width: 1600px;
 }
